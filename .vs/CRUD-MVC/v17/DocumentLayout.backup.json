@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\migrations\\20250412190845_seedcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\migrations\\20250412190845_seedcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\migrations\\20250412183812_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\migrations\\20250412183812_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|c:\\users\\hp\\desktop\\c--main\\c--main\\c--main\\crud-mvc\\crud-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D42CA996-0360-4B45-A9C3-56A36372E6B4}|CRUD-MVC\\CRUD-MVC.csproj|solutionrelative:crud-mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:08:52.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T22:10:49.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Models\\Category.cs",
+              "RelativeToolTip": "CRUD-MVC\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:54:31.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:53:30.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T13:35:31.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:39:08.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:47:09.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:47:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CRUD-MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAiwFIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:06:04.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T14:06:11.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T21:53:33.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T13:21:45.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CRUD-MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:14:16.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUD-MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:23:23.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUD-MVC\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:39:29.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250412190845_SeedCategory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\20250412190845_SeedCategory.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Migrations\\20250412190845_SeedCategory.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\20250412190845_SeedCategory.cs",
+              "RelativeToolTip": "CRUD-MVC\\Migrations\\20250412190845_SeedCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:39:28.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250412183812_AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\20250412183812_AddCategory.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Migrations\\20250412183812_AddCategory.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Migrations\\20250412183812_AddCategory.cs",
+              "RelativeToolTip": "CRUD-MVC\\Migrations\\20250412183812_AddCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:39:27.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T13:21:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CRUD-MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-26T13:21:48.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Program.cs",
+              "RelativeToolTip": "CRUD-MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:28:36.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CRUD-MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CRUD-MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T13:26:22.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD-MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\c--main\\c--main\\c--main\\CRUD-MVC\\CRUD-MVC\\appsettings.json",
+              "RelativeToolTip": "CRUD-MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T13:15:04.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
